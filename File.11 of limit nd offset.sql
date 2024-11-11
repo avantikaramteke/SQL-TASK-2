@@ -1,0 +1,1 @@
+select customer_name  from customers limit 10

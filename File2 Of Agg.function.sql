@@ -1,0 +1,1 @@
+select payment_mode ,sum(order_amount) from orders   where  payment_mode = 'UPI' group by payment_mode ;

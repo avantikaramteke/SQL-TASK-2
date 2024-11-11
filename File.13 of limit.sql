@@ -1,0 +1,1 @@
+select customer_id from customers limit 10 offset 10

@@ -1,0 +1,1 @@
+select * from order_items   order by  total_price  desc

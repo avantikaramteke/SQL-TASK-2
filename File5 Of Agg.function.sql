@@ -1,0 +1,1 @@
+select product_id ,sum(quantity) from order_items group by product_id;
